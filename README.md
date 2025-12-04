@@ -1,5 +1,12 @@
-# Music-Instagram-Microservices-Architecture
-An instagram like website for music focused on microservices architecture and kubernetes
+# MuVault 
 
+Microservices webpage applications:
 
-Aka Music brainrot
+User profiles
+Feed generation
+Messaging 
+Media storage
+Notifications
+Search
+
+Learn kubernetes and docker
