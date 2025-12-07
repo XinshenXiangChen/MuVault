@@ -1,3 +1,5 @@
 from django.shortcuts import render
 
-# Create your views here.
+def test_login(request):
+    print()
+    return render(request, 'user_app/test_login.html')
